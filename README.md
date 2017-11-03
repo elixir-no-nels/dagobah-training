@@ -15,6 +15,7 @@ The built slides from all past trainings are available at [index](https://galaxy
 
 Moreover each training has its own **branch** within this repository with the slides' sources and additional materials:
 
+* [2018 Oslo branch](https://github.com/galaxyproject/dagobah-training/tree/2018-oslo)
 * [2017 Montpellier branch](https://github.com/galaxyproject/dagobah-training/tree/2017-montpellier)
 * [2017 Melbourne branch](https://github.com/galaxyproject/dagobah-training/tree/2017-melbourne)
 * [2016 Salt Lake City branch](https://github.com/galaxyproject/dagobah-training/tree/2016-saltlakecity)
@@ -25,6 +26,7 @@ Moreover each training has its own **branch** within this repository with the sl
 Examine the trainings readme files in the dedicated branches and browse through the slides and exercises linked from there.
 
 Shortcuts:
+* [2017 Oslo readme](https://github.com/galaxyproject/dagobah-training/tree/2018-oslo/README.md)
 * [2017 Montpellier readme](https://github.com/galaxyproject/dagobah-training/tree/2017-montpellier/README.md)
 * [2017 Melbourne readme](https://github.com/galaxyproject/dagobah-training/tree/2017-melbourne/README.md)
 * [2016 Salt Lake City readme](https://github.com/galaxyproject/dagobah-training/blob/2016-saltlakecity/README.md)

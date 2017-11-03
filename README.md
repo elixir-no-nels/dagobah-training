@@ -4,7 +4,7 @@ dagobah - The Solar System for Galaxy Training
 > "The planet shown in Dagobah, in the Sluis sector, is a world of murky swamps, steaming bayous, and petrified forests."
 
 ---
-**Salt Lake City - 7th to 11th November 2016**
+**Oslo - 8th to 12th January 2018**
 
 [Event Logisitics](https://wiki.galaxyproject.org/Events/AdminTraining2016/Logistics) | [Admin Training Home Page](https://wiki.galaxyproject.org/Events/AdminTraining2016)
 
@@ -20,10 +20,15 @@ Built slides have [an index](https://galaxyproject.github.io/dagobah-training/20
 * (M)artin Čech - Galaxy Project, BMB, Penn State University, USA
 * Dave (C)lements - Galaxy Project, Department of Biology, Johns Hopkins University, USA
 
+### Location
+
+Building: [Ole Johan Dahls hus, University of Oslo](https://www.uio.no/english/about/getting-around/areas/gaustad/ga06/)
+Room: [Seminar room Python](https://tp.uio.no/timeplan/rom.php?area=GA&building=GA06&id=GA062269&week=2&ar=2018&ca=false&cb=false)
+
 ## Timetable
 ### Basic Sessions
 #### Monday
-**7th November** - [Salt Lake City Library - Conference Room Level 4](http://www.slcpl.org/rooms/)
+**8th January**
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -38,12 +43,11 @@ Built slides have [an index](https://galaxyproject.github.io/dagobah-training/20
 | 14:20 | Introduction to the Galaxy Tool Shed: Identifying and installing well-defined tools | [Slides (Shed)](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/05-tool-shed/shed_intro.html), [Slides (Tools)](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/05-tool-shed/tool_installation.html), [Slides (Dependencies)](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/05-tool-shed/tool-dependencies.html), [Exercise](intro/05-tool-shed/ex-tool-management.md)| (M) |
 | 15:30 | **Afternoon Break** | | |
 | 15:50 | Defining and importing genomes, Data Managers | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/06-reference-genomes/reference_genomes.html), [Exercise](intro/06-reference-genomes/ex06_reference_genomes.md) | (S) |
-| 17:40 | **Dinner**, *on your own* |  |  |
-| 19:00 | Discussion, troubleshooting, ad hoc support |  | All |
-| 20:30 | Close Day 1 | | All |
+| 17:00 | Close Day 1 | | All |
+| 19:00 | Common Dinner | | |
 
 #### Tuesday
-**8th November** - [Salt Lake City Library - Conference Room Level 4](http://www.slcpl.org/rooms/)
+**9th January**
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -58,14 +62,12 @@ Built slides have [an index](https://galaxyproject.github.io/dagobah-training/20
 | 15:20 | **Afternoon Break** | | |
 | 15:40 | Upgrading to a new Galaxy release | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/10-upgrading-release/upgrading.html) | (N + M) |
 | 16:50 | When things go wrong: Basic Galaxy server troubleshooting | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/11-basic-troubleshooting/basic-troubleshooting.html) | (N + M) |
-| 17:40 | **Dinner**, *catered* |  |  |
-| 19:00 | Introduction to Galaxy Architecture (Joint session with the Advanced Topics session) | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/12-architecture/galaxy_architecture.html) | All |
-| 20:20 | Wrap up and close | | All |
+| 17:40 | Introduction to Galaxy Architecture (Joint session with the Advanced Topics session) | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/12-architecture/galaxy_architecture.html) | All |
 
 ### Advanced Sessions
 
 #### Wednesday
-**9th November** - [Commander's house - North & South Parlor and Sun Room](http://www.universityguesthouse.com/Commanders-House/map#tab_2)
+**10th January**
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -80,12 +82,10 @@ Built slides have [an index](https://galaxyproject.github.io/dagobah-training/20
 | 15:20 | **Afternoon Break** | | |
 | 15:40 | Controlling Galaxy with systemd and supervisor | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/002a-systemd-supervisor/systemd-supervisor.html), [Exercise](https://github.com/galaxyproject/dagobah-training/blob/master/advanced/002a-systemd-supervisor/ex1-supervisor.md) | (N) |
 | 16:10 | Advanced tool definition, tool failures, tool debugging | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/003-tools-advanced/tools-advanced.html) | (M) |
-| 17:40 | **Dinner**, *on your own* |  |  |
-| 19:00 | Discussion, troubleshooting, ad hoc support |  | All |
-| 20:30 | Close day 1 | | All |
+| 17:40 | Close day 1 | | All |
 
 #### Thursday
-**10th November** - [Commander's house - North & South Parlor and Sun Room](http://www.universityguesthouse.com/Commanders-House/map#tab_2)
+**11th January**
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -98,12 +98,12 @@ Built slides have [an index](https://galaxyproject.github.io/dagobah-training/20
 | 13:20 | Connecting Galaxy to a compute cluster II |  | (N) |
 | 15:20 | **Afternoon Break** | | |
 | 15:40 | Using Heterogeneous compute resources | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/005-compute-cluster/heterogeneous.html), [Exercise](https://github.com/galaxyproject/dagobah-training/blob/master/advanced/005-compute-cluster/ex3-pulsar.md) | (N) |
-| 17:40 | **Dinner**, *on your own* |  |  |
-| 19:00 | Using public and private cloud compute resources | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/006-clouds/clouds.html) | (S) |
-| 20:30 | Close day 2 | | All |
+| 17:40 | Close day 2 | | All |
+
+| ? | Using public and private cloud compute resources | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/006-clouds/clouds.html) | (S) |
 
 #### Friday
-**11th November** - [Commander's house - North & South Parlor and Sun Room](http://www.universityguesthouse.com/Commanders-House/map#tab_2)
+**12th January**
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -116,6 +116,4 @@ Built slides have [an index](https://galaxyproject.github.io/dagobah-training/20
 | 13:20 | When things go REALLY wrong: Advanced Galaxy server troubleshooting | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/009-advanced-troubleshooting/troubleshooting.html#1) | (N) |
 | 15:20 | **Afternoon Break** | | |
 | 15:50 | Participant selected topics | [Interactive Environments: Jupyter](https://gist.github.com/natefoo/73bdcd9d467efd8d333ec15719e71108) | All |
-| 17:30 | **Dinner**, *catered* |  |  |
-| 18:50 | Discussion and open questions |  | All |
-| 20:30 | Wrap up and close | | All |
+| 17:30 | Wrap up and close of workshop| | All |

@@ -42,7 +42,7 @@ Timetable with sessions and material will be continously updated towards the wor
 | 11:20 | Database choices and configuration. Introduction to PostgreSQL | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/03-databases/databases.html), [Exercise](intro/03-databases/ex1-postgres.md) | TBD |
 | 12:20 | **Lunch**, *catered* | | |
 | 13:20 | Web server choices and configuration. Introduction to Apache and NGINX. | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/04-web-servers/webservers.html), [Exercise 1](https://github.com/galaxyproject/dagobah-training/blob/master/intro/04-web-servers/ex1-apache.md), [Exercise 2](https://github.com/galaxyproject/dagobah-training/blob/master/intro/04-web-servers/ex2-nginx.md) | TBD |
-| 14:20 | Introduction to the Galaxy Tool Shed: Identifying and installing well-defined tools | [Slides (Shed)](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/05-tool-shed/shed_intro.html), [Slides (Tools)](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/05-tool-shed/tool_installation.html), [Slides (Dependencies)](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/05-tool-shed/tool-dependencies.html), [Exercise](intro/05-tool-shed/ex-tool-management.md)| () |
+| 14:20 | Introduction to the Galaxy Tool Shed: Identifying and installing well-defined tools | [Slides (Shed)](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/05-tool-shed/shed_intro.html), [Slides (Tools)](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/05-tool-shed/tool_installation.html), [Slides (Dependencies)](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/05-tool-shed/tool-dependencies.html), [Exercise](intro/05-tool-shed/ex-tool-management.md)| TBD |
 | 15:30 | **Afternoon Break** | | |
 | 15:50 | Defining and importing genomes, Data Managers | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/06-reference-genomes/reference_genomes.html), [Exercise](intro/06-reference-genomes/ex06_reference_genomes.md) | TBD |
 | 17:00 | Close Day 1 | | All |
@@ -79,7 +79,7 @@ Timetable with sessions and material will be continously updated towards the wor
 | 10:30 | **Morning Break** | | |
 | 10:50 | Using Ansible to deploy Galaxy II | [uWSGI slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/002-monitoring-maintenance/uwsgi.html) | TBD |
 | 12:20 | **Lunch**, *catered* | | |
-| 13:20 | Server monitoring and maintenance: Admin UI, Log files, Direct database queries, Command line & scripts, What to backup and how | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/002-monitoring-maintenance/monitoring-maintenance.html) | () |
+| 13:20 | Server monitoring and maintenance: Admin UI, Log files, Direct database queries, Command line & scripts, What to backup and how | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/002-monitoring-maintenance/monitoring-maintenance.html) | TBD |
 | 15:20 | **Afternoon Break** | | |
 | 15:40 | Controlling Galaxy with systemd and supervisor | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/002a-systemd-supervisor/systemd-supervisor.html), [Exercise](https://github.com/galaxyproject/dagobah-training/blob/master/advanced/002a-systemd-supervisor/ex1-supervisor.md) | TBD |
 | 16:10 | Advanced tool definition, tool failures, tool debugging | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/003-tools-advanced/tools-advanced.html) | TBD |
@@ -100,8 +100,7 @@ Timetable with sessions and material will be continously updated towards the wor
 | 15:20 | **Afternoon Break** | | |
 | 15:40 | Using Heterogeneous compute resources | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/005-compute-cluster/heterogeneous.html), [Exercise](https://github.com/galaxyproject/dagobah-training/blob/master/advanced/005-compute-cluster/ex3-pulsar.md) | TBD |
 | 17:40 | Close day 2 | | All |
-
-| ? | Using public and private cloud compute resources | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/006-clouds/clouds.html) | () |
+| ? | Using public and private cloud compute resources | [Slides](https://galaxyproject.github.io/dagobah-training/2016-saltlakecity/006-clouds/clouds.html) | TBD |
 
 #### Friday
 **12th January**

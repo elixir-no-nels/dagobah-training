@@ -15,7 +15,7 @@ Built slides have [an index](https://galaxyproject.github.io/dagobah-training/20
 ### Instructors
 
 * (B)jörn Grüning - Elixir Galaxy WG, Elixir Germany, de.NBI, University of Freiburg, Germany 
-* (M)arius van deer Beek - Elixir Galaxy WG, Institute Curie, Paris, France
+* (M)arius van den Beek - Elixir Galaxy WG, Institute Curie, Paris, France
 * (N)icola Soranzo - Elixir Galaxy WG, Earlham Institute, UK
 * (E)nis Afgan - Galaxy Project, Johns Hopkins University, USA
 * (A)bdulrahman Azab - Elixir Norway, USIT, University of Oslo, NO
